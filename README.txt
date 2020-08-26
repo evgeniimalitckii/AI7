@@ -7,7 +7,7 @@ The last two values with an index of 16 and 17 must be filed with zeros.
 Before feeding the obtained array to the model the normalization is needed. Divide your array of data (cons_descriptor) by normalization array as follow:
 
 # normalization
-    norm = np.array([[3.12280000e-01, 5.98813002e+03, 7.40635820e+02, 1.80230000e-01,
+    norm = numpy.array([[3.12280000e-01, 5.98813002e+03, 7.40635820e+02, 1.80230000e-01,
             6.93425373e+03, 6.21512470e+02, 7.37760000e-01, 7.57653689e+03,
             7.10082360e+02, 5.70730000e-01, 9.36837481e+03, 1.06340591e+03,
             7.99100000e-02, 1.07656541e+04, 2.58237395e+03, 1.00000000e+00,
