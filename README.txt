@@ -1,3 +1,5 @@
+Use requirements.txt file to create the environment to launch the web-application.
+
 ############## Model description ################
 
 HSPmodel_ff_43.h5 file contains the deep learning model designed to predict the hydrogen sensitivity parameter of steels.
