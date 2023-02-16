@@ -27,6 +27,6 @@ tensorflow-cpu-estimator==1.15.1
 termcolor==1.1.0
 tornado==6.1
 typing-extensions==3.10.0.0
-Werkzeug==2.0.1
+Werkzeug==2.2.3
 wrapt==1.12.1
 zipp==3.5.0
